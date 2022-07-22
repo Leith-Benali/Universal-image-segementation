@@ -1,3 +1,5 @@
+#  By Leith Benali
+#  Adapted from islandlab-unlv  https://github.com/islandlab-unlv/Universal-image-segementation/blob/main/layerID_test.py 
 """Process optical images of thin flakes to distinguish layer thicknesses.
 
     Usage:
