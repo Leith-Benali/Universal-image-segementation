@@ -1,3 +1,5 @@
+#  By Leith Benali
+#  Adapted from islandlab-unlv  https://github.com/islandlab-unlv/Universal-image-segementation/blob/main/layerID_train.py
 """Process optical images of thin flakes to distinguish layer thicknesses."""
 
 from mpl_toolkits.mplot3d import Axes3D
