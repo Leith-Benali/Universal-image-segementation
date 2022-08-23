@@ -10,10 +10,12 @@ Segmentation program to identify the thickness of 2D materials from optical micr
 #   - The cluster number is found by hovering the mouse over a cluster and looking at the number in brackets at the bottom right of the figure (these numbers are random and are not yet correlated to the cluster thickness)
 # 5. Close the figures and enter the cluster thicknesses as prompted
 
-# Master catalog and testing
+# Master catalog
 # 1. Open master_cataloger.py 
 # 2. Enter the parameters and run the program
-# 3. Open layerID_test_new.py
-# 4. Enter the parameters and run the program 
+
+# Testing
+# 1. Open layerID_test_new.py
+# 2. Enter the parameters and run the program 
 #   - To test the program use an image with known thicknesses, otherwise the image can be one where the thicknesses are unknown
-# 5. The output will be a processed image that identifies the thickness of each layer of a given flake
+# 3. The output will be a processed image that identifies the thickness of each layer of a given flake
